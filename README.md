@@ -10,7 +10,7 @@
 
 ## Profiles
 
-[![Linked_In]](https://img.shields.io/website?label=Linked%In&style=for-the-badge&url=www.linkedin.com/in/yasith-amarasinghe)]
+https://img.shields.io/website?label=Linked%In&style=for-the-badge&url=www.linkedin.com/in/yasith-amarasinghe)
 
 ## Technology Stack
 
