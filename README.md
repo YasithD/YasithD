@@ -10,9 +10,10 @@
 
 ## Profiles
 
-https://img.shields.io/website?label=Linked%In&style=for-the-badge&url=www.linkedin.com/in/yasith-amarasinghe
+![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fyasith-amarasinghe)
 
 ## Technology Stack
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+
 
 [linkedin]: www.linkedin.com/in/yasith-amarasinghe
