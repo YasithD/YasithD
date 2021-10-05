@@ -1,6 +1,6 @@
 ## Hi there, I am Yasith 🙂
 
-## I am an Undergraduate at Department of Computer Science and Engineering, University of Moratuwa
+### I am an Undergraduate at Department of Computer Science and Engineering, University of Moratuwa
 
 - I am currently in my 3rd year of the University 😃
 - I am currently working on 3 projects 🤗
