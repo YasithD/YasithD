@@ -13,5 +13,6 @@
 https://img.shields.io/website?label=Linked%In&style=for-the-badge&url=www.linkedin.com/in/yasith-amarasinghe
 
 ## Technology Stack
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
 [linkedin]: www.linkedin.com/in/yasith-amarasinghe
