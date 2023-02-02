@@ -2,8 +2,7 @@
 
 ### I am an Undergraduate at Department of Computer Science and Engineering, University of Moratuwa
 
-- I am currently in my 3rd year of the University 😃
-- I am currently working on 3 projects 🤗
+- I am currently in my final year of the University 😃
 - What attracts me to programming is the nature of problem solving 🤩
 - My hobby is developing web applications 🖤
 - I am passionate to explore and learn new technologies 😃
