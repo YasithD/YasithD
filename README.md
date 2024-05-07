@@ -1,12 +1,43 @@
-## Hi there, I am Yasith 🙂
+## Hi there, I am Yasith Deelaka 🙂
 
-### I am a Software Engineer at WSO2 Pvt (Ltd).
+### I am a Software Engineer.
 
-## Languages and Tools
+- I currently work at WSO2 Pvt (Ltd).
+- I graduated from University of Moratuwa.
+  - Degree: Computer Science & Engineering
+  - GPA: 3.87
 
-<p align="center">
+## Languages and Frameworks
+
+### Web Development
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,ts,js,html,css,bootstrap,git,github,githubactions,mysql,postgres,c,py,figma,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,webpack,npn,pnpm,redux,bootstrap,materialui&perline=8" />
+  </a>
+</p>
+
+### Machine Learning and Data Science
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=8" />
+  </a>
+</p>
+
+### Other
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postgres,mysql,c&perline=8" />
+  </a>
+</p>
+
+## Platforms
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,anaconda,firebase,figma,github&perline=8" />
   </a>
 </p>
 
