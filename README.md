@@ -40,5 +40,3 @@
     <img src="https://skillicons.dev/icons?i=docker,anaconda,firebase,figma,github&perline=8" />
   </a>
 </p>
-
-[![Yasith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasithD&theme=material-palenight)](https://github.com/YasithD)
