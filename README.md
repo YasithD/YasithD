@@ -25,11 +25,19 @@
   </a>
 </p>
 
+### Databases
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&perline=8" />
+  </a>
+</p>
+
 ### Other
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postgres,mysql,c&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,c&perline=8" />
   </a>
 </p>
 
@@ -37,6 +45,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,anaconda,firebase,figma,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,anaconda,figma,github&perline=8" />
   </a>
 </p>
